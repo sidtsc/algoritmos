@@ -1,4 +1,4 @@
-print ("Example Logical Operators")
+print ("Exemplo de Operadores Lógicos")
 
 correctUser1 = "Euclides"
 correctPassword1 = "123456"
