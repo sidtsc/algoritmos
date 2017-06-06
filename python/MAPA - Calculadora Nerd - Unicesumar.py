@@ -1,14 +1,11 @@
 def incremento(num):
-    x = num + 1
-    return x;
+    return num + 1;
 
 def decremento(num):
-    x = num - 1
-    return x;
+    return x - 1;
 
 def modulo(x,y):
-    z = x % y
-    return z;
+    return x % y;
 
 print("Opção 1 - Incremento")
 print("Opção 2 - Decremento")
